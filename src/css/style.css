@@ -1,0 +1,45 @@
+.logo{
+
+  margin-left: 50px; 
+  margin-top: 10px;
+
+}
+
+.headear{
+  margin-top: 50px;
+
+}
+
+.lugar{
+  margin-top: -125px;
+  margin-left: 550px; 
+
+}
+
+.background {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to right, #F3BA9E 50%, #BC8ADF 50%);
+  display: flex;
+}
+
+.left-section {
+  width: 50vw;
+  height: 100vh;
+  background-color: #F3BA9E;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-section {
+  width: 50vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, #BC8ADF 0%, #664B79 100%);
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
